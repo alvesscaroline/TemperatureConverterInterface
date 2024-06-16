@@ -4,5 +4,6 @@ This project is an evolution of the previous project. There is a graphical inter
 
 ## Technologies
 
+- XCode
 - Swift
 - SwiftUI
